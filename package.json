@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "node": "^16.17.0",
+    "node-image-downloader": "^1.0.7",
+    "nodejs": "^0.0.0"
+  },
+  "name": "updatedproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Verma",
+  "license": "ISC",
+  "description": ""
+}
